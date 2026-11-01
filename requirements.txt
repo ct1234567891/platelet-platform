@@ -1,0 +1,8 @@
+streamlit
+numpy
+matplotlib
+pandas
+tifffile
+scipy
+scikit-image
+cellpose

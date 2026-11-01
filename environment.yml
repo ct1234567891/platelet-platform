@@ -1,0 +1,9 @@
+name: platelet-dash
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - streamlit
+  - tifffile
+  - micro_sam
+prefix: /opt/anaconda3/envs/platelet-dash

@@ -1,0 +1,16 @@
+# data, models and outputs (lab data, too large for GitHub)
+models/
+results/
+data/
+*.tif
+*.tiff
+*.pt
+*.pth
+*.npz
+
+# Python and Mac clutter
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
